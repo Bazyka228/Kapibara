@@ -1,0 +1,3044 @@
+fileFormatVersion: 2
+guid: cc14bdf06b65a1b4cb4fe9ff1152f130
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3897508965324158314
+    second: CapyLifeAtlas_0
+  - first:
+      213: 7260080124335617528
+    second: CapyLifeAtlas_1
+  - first:
+      213: -1936084797873308614
+    second: CapyLifeAtlas_2
+  - first:
+      213: -4947135606693778396
+    second: CapyLifeAtlas_3
+  - first:
+      213: -5005988503723545356
+    second: CapyLifeAtlas_4
+  - first:
+      213: 561024123760020071
+    second: CapyLifeAtlas_5
+  - first:
+      213: -4056289751788012758
+    second: CapyLifeAtlas_6
+  - first:
+      213: -442227340177714374
+    second: CapyLifeAtlas_7
+  - first:
+      213: -2255061152403383186
+    second: CapyLifeAtlas_8
+  - first:
+      213: 5664340319493738860
+    second: CapyLifeAtlas_9
+  - first:
+      213: -45699737606101745
+    second: CapyLifeAtlas_10
+  - first:
+      213: -6951716487547896147
+    second: CapyLifeAtlas_11
+  - first:
+      213: -674205361974856991
+    second: CapyLifeAtlas_12
+  - first:
+      213: 8533236345499718046
+    second: CapyLifeAtlas_13
+  - first:
+      213: 8844962070877117632
+    second: CapyLifeAtlas_14
+  - first:
+      213: 5922249255364148350
+    second: CapyLifeAtlas_15
+  - first:
+      213: 61415614636462332
+    second: CapyLifeAtlas_16
+  - first:
+      213: 3319616515416542050
+    second: CapyLifeAtlas_17
+  - first:
+      213: 7749858226463235149
+    second: CapyLifeAtlas_18
+  - first:
+      213: 5252160772351408216
+    second: CapyLifeAtlas_19
+  - first:
+      213: -7424385434097540244
+    second: CapyLifeAtlas_20
+  - first:
+      213: -537961386603118023
+    second: CapyLifeAtlas_21
+  - first:
+      213: 3569475346196685628
+    second: CapyLifeAtlas_22
+  - first:
+      213: 9132298420069736678
+    second: CapyLifeAtlas_23
+  - first:
+      213: 3087463293816588537
+    second: CapyLifeAtlas_24
+  - first:
+      213: 7353192369953585474
+    second: CapyLifeAtlas_25
+  - first:
+      213: -6277403905281719928
+    second: CapyLifeAtlas_26
+  - first:
+      213: 2153392115551851063
+    second: CapyLifeAtlas_27
+  - first:
+      213: 6136926215700614704
+    second: CapyLifeAtlas_28
+  - first:
+      213: -1952789997156199710
+    second: CapyLifeAtlas_29
+  - first:
+      213: -1677217838932830389
+    second: CapyLifeAtlas_30
+  - first:
+      213: 2991506211973522591
+    second: CapyLifeAtlas_31
+  - first:
+      213: 996735354417295647
+    second: CapyLifeAtlas_32
+  - first:
+      213: -7009889476919369639
+    second: CapyLifeAtlas_33
+  - first:
+      213: -2744495171108504286
+    second: CapyLifeAtlas_34
+  - first:
+      213: 3679757470493979804
+    second: CapyLifeAtlas_35
+  - first:
+      213: -1905604835202070261
+    second: CapyLifeAtlas_36
+  - first:
+      213: -3991344303592074307
+    second: CapyLifeAtlas_37
+  - first:
+      213: -7036486327053259914
+    second: CapyLifeAtlas_38
+  - first:
+      213: 4385832424604560670
+    second: CapyLifeAtlas_39
+  - first:
+      213: -1192319959837757438
+    second: CapyLifeAtlas_40
+  - first:
+      213: 562464162152756218
+    second: CapyLifeAtlas_41
+  - first:
+      213: 7077899099939490459
+    second: CapyLifeAtlas_42
+  - first:
+      213: -2940420694153889563
+    second: CapyLifeAtlas_43
+  - first:
+      213: 1461081906052992978
+    second: CapyLifeAtlas_44
+  - first:
+      213: -5407969581766376914
+    second: CapyLifeAtlas_45
+  - first:
+      213: 8608738628337947738
+    second: CapyLifeAtlas_46
+  - first:
+      213: 6109949583056145733
+    second: CapyLifeAtlas_47
+  - first:
+      213: -2151219689661625542
+    second: CapyLifeAtlas_48
+  - first:
+      213: 332064567485114181
+    second: CapyLifeAtlas_49
+  - first:
+      213: 5766588594820872968
+    second: CapyLifeAtlas_50
+  - first:
+      213: -2502689118252627048
+    second: CapyLifeAtlas_51
+  - first:
+      213: -503130016703076343
+    second: CapyLifeAtlas_52
+  - first:
+      213: -8811097653364388097
+    second: CapyLifeAtlas_53
+  - first:
+      213: 700930430162753993
+    second: CapyLifeAtlas_54
+  - first:
+      213: 1283698118543542268
+    second: CapyLifeAtlas_55
+  - first:
+      213: -8978366431860671658
+    second: CapyLifeAtlas_56
+  - first:
+      213: 5104982282192968480
+    second: CapyLifeAtlas_57
+  - first:
+      213: 9100266084481717008
+    second: CapyLifeAtlas_58
+  - first:
+      213: -3483214695128461945
+    second: CapyLifeAtlas_59
+  - first:
+      213: -2639645278620520079
+    second: CapyLifeAtlas_60
+  - first:
+      213: -3273689947983864522
+    second: CapyLifeAtlas_61
+  - first:
+      213: 2716087786890054636
+    second: CapyLifeAtlas_62
+  - first:
+      213: -6519914075593891880
+    second: CapyLifeAtlas_63
+  - first:
+      213: -998970811275972565
+    second: CapyLifeAtlas_64
+  - first:
+      213: -8890813347207802330
+    second: CapyLifeAtlas_65
+  - first:
+      213: 2754704301462458103
+    second: CapyLifeAtlas_66
+  - first:
+      213: 7206794463868019121
+    second: CapyLifeAtlas_67
+  - first:
+      213: -8171840668769535131
+    second: CapyLifeAtlas_68
+  - first:
+      213: -3104737293696714670
+    second: CapyLifeAtlas_69
+  - first:
+      213: -9008350574388865631
+    second: CapyLifeAtlas_70
+  - first:
+      213: -2497763893688670883
+    second: CapyLifeAtlas_71
+  - first:
+      213: 7435215236700470499
+    second: CapyLifeAtlas_72
+  - first:
+      213: 6506959196321653659
+    second: CapyLifeAtlas_73
+  - first:
+      213: 6240692976874226174
+    second: CapyLifeAtlas_74
+  - first:
+      213: -3779615527961020337
+    second: CapyLifeAtlas_75
+  - first:
+      213: 8893233039872674030
+    second: CapyLifeAtlas_76
+  - first:
+      213: 9217535836891378703
+    second: CapyLifeAtlas_77
+  - first:
+      213: 2779931605924976538
+    second: CapyLifeAtlas_78
+  - first:
+      213: 6856459188867301915
+    second: CapyLifeAtlas_79
+  - first:
+      213: 7593196546413553925
+    second: CapyLifeAtlas_80
+  - first:
+      213: -7814762694765835782
+    second: CapyLifeAtlas_81
+  - first:
+      213: -6412769373966164998
+    second: CapyLifeAtlas_82
+  - first:
+      213: 5404341347477658648
+    second: CapyLifeAtlas_83
+  - first:
+      213: 6877413406575188788
+    second: CapyLifeAtlas_84
+  - first:
+      213: -6188718819378375840
+    second: CapyLifeAtlas_85
+  - first:
+      213: 5889661425782588845
+    second: CapyLifeAtlas_86
+  - first:
+      213: -5436253717592161879
+    second: CapyLifeAtlas_87
+  - first:
+      213: 3068477164442674160
+    second: CapyLifeAtlas_88
+  - first:
+      213: -7943595170839875325
+    second: CapyLifeAtlas_89
+  - first:
+      213: -8191151862747095235
+    second: CapyLifeAtlas_90
+  - first:
+      213: -1607286676903807703
+    second: CapyLifeAtlas_91
+  - first:
+      213: -5414091570669012613
+    second: CapyLifeAtlas_92
+  - first:
+      213: 3281901129923068128
+    second: CapyLifeAtlas_93
+  - first:
+      213: -3134220634219571446
+    second: CapyLifeAtlas_94
+  - first:
+      213: -2355425453543223476
+    second: CapyLifeAtlas_95
+  - first:
+      213: 3145134255594474106
+    second: CapyLifeAtlas_96
+  - first:
+      213: 307141044726895033
+    second: CapyLifeAtlas_97
+  - first:
+      213: 8669988001136772229
+    second: CapyLifeAtlas_98
+  - first:
+      213: 6654070187627683250
+    second: CapyLifeAtlas_99
+  - first:
+      213: -6423642576048607791
+    second: CapyLifeAtlas_100
+  - first:
+      213: 7833012638153531816
+    second: CapyLifeAtlas_101
+  - first:
+      213: -9174499953545486485
+    second: CapyLifeAtlas_102
+  - first:
+      213: -8200832670711556863
+    second: CapyLifeAtlas_103
+  - first:
+      213: 8091722140911648575
+    second: CapyLifeAtlas_104
+  - first:
+      213: 8610174628687607791
+    second: CapyLifeAtlas_105
+  - first:
+      213: 5002480260932985333
+    second: CapyLifeAtlas_106
+  - first:
+      213: -3288971090273718568
+    second: CapyLifeAtlas_107
+  - first:
+      213: 7401946756271799067
+    second: CapyLifeAtlas_108
+  - first:
+      213: -3701191544395186351
+    second: CapyLifeAtlas_109
+  - first:
+      213: 7424945197034109702
+    second: CapyLifeAtlas_110
+  - first:
+      213: -2990447511765561752
+    second: CapyLifeAtlas_111
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CapyLifeAtlas_0
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1156
+        width: 120
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69a04f4fe3449e9c0800000000000000
+      internalID: -3897508965324158314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_1
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1132
+        width: 43
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f5f5e3586cf0c460800000000000000
+      internalID: 7260080124335617528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_2
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1199
+        width: 62
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c3ab75225a125e0800000000000000
+      internalID: -1936084797873308614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_3
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1140
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42ca453706e385bb0800000000000000
+      internalID: -4947135606693778396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_4
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1140
+        width: 72
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc6edd8af7278ab0800000000000000
+      internalID: -5005988503723545356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_5
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1191
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a0427d77829c700800000000000000
+      internalID: 561024123760020071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_6
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1146
+        width: 65
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b3e9e36f925b7c0800000000000000
+      internalID: -4056289751788012758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_7
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1193
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a33ddbeb394ecd9f0800000000000000
+      internalID: -442227340177714374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_8
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1162
+        width: 63
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6c963864d964b0e0800000000000000
+      internalID: -2255061152403383186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_9
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1179
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c61d8567287cb9e40800000000000000
+      internalID: 5664340319493738860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_10
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 1191
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f05e8ada454ad5ff0800000000000000
+      internalID: -45699737606101745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_11
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 1189
+        width: 63
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae3b74bfaa868f90800000000000000
+      internalID: -6951716487547896147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_12
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 801
+        width: 427
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e233dd9bcdb4a6f0800000000000000
+      internalID: -674205361974856991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_13
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 1098
+        width: 112
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9196f5ce352c6670800000000000000
+      internalID: 8533236345499718046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_14
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 1209
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc1f6e042e9fba70800000000000000
+      internalID: 8844962070877117632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_15
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1173
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7c3d41025e003250800000000000000
+      internalID: 5922249255364148350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_16
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1162
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf091161d213ad000800000000000000
+      internalID: 61415614636462332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_17
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1159
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b4ce7f1a5a11e20800000000000000
+      internalID: 3319616515416542050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_18
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1171
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4cdaf71ff60d8b60800000000000000
+      internalID: 7749858226463235149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_19
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1169
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8583f33356c63e840800000000000000
+      internalID: 5252160772351408216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_20
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1171
+        width: 41
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c632805a8c847f890800000000000000
+      internalID: -7424385434097540244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_21
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 1146
+        width: 50
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93205a818f6c888f0800000000000000
+      internalID: -537961386603118023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_22
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1076
+        width: 69
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c33619c5ae2598130800000000000000
+      internalID: 3569475346196685628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_23
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1154
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e02e1f27017cbe70800000000000000
+      internalID: 9132298420069736678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_24
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1144
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f8cef4f18fd8da20800000000000000
+      internalID: 3087463293816588537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_25
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 817
+        width: 301
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24932386089cb0660800000000000000
+      internalID: 7353192369953585474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_26
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 1158
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8818802486e22e8a0800000000000000
+      internalID: -6277403905281719928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_27
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1160
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 732589d48b262ed10800000000000000
+      internalID: 2153392115551851063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_28
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1044
+        width: 85
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03e0e9bd0edba2550800000000000000
+      internalID: 6136926215700614704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_29
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1140
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e2919a08db46e4e0800000000000000
+      internalID: -1952789997156199710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_30
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1134
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b47d573034359b8e0800000000000000
+      internalID: -1677217838932830389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_31
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1140
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f946e04dc07f38920800000000000000
+      internalID: 2991506211973522591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_32
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 968
+        width: 195
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f11bd1f168d15dd00800000000000000
+      internalID: 996735354417295647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_33
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1140
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 950e87529aed7be90800000000000000
+      internalID: -7009889476919369639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_34
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1142
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d7d4ece2899e9d0800000000000000
+      internalID: -2744495171108504286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_35
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 1132
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9432685cef111330800000000000000
+      internalID: 3679757470493979804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_36
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1098
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b09838baf7eed85e0800000000000000
+      internalID: -1905604835202070261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_37
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1098
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db39d10c085eb98c0800000000000000
+      internalID: -3991344303592074307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_38
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1108
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67be81967f0695e90800000000000000
+      internalID: -7036486327053259914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_39
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1122
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1de1f06a5b9ddc30800000000000000
+      internalID: 4385832424604560670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_40
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1116
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 200334f4057047fe0800000000000000
+      internalID: -1192319959837757438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_41
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 1090
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af3b008ec264ec700800000000000000
+      internalID: 562464162152756218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_42
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 1098
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9a43f72bbfb93260800000000000000
+      internalID: 7077899099939490459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_43
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1002
+        width: 84
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e8ffba25f68137d0800000000000000
+      internalID: -2940420694153889563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_44
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1074
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df0a0e904ec64410800000000000000
+      internalID: 1461081906052992978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_45
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1076
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2282ba615803f4b0800000000000000
+      internalID: -5407969581766376914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_46
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1082
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a545442eb22687770800000000000000
+      internalID: 8608738628337947738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_47
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1066
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54d8b9d16c6eac450800000000000000
+      internalID: 6109949583056145733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_48
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1000
+        width: 35
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3b84e307155522e0800000000000000
+      internalID: -2151219689661625542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_49
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1052
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 547a17bf6fabb9400800000000000000
+      internalID: 332064567485114181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_50
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 731
+        width: 381
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80bfd1836c9070050800000000000000
+      internalID: 5766588594820872968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_51
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 996
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b015bb189a44dd0800000000000000
+      internalID: -2502689118252627048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_52
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 980
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 908a39e5ae58409f0800000000000000
+      internalID: -503130016703076343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_53
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 989
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe00f11e51b8b580800000000000000
+      internalID: -8811097653364388097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_54
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 843
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c9dc1633843ab900800000000000000
+      internalID: 700930430162753993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_55
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 865
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf700a233ac90d110800000000000000
+      internalID: 1283698118543542268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_56
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 823
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b37a5bc4f666380800000000000000
+      internalID: -8978366431860671658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_57
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 722
+        width: 119
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02b56ca965a88d640800000000000000
+      internalID: 5104982282192968480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_58
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 791
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 013511fd9c3aa4e70800000000000000
+      internalID: 9100266084481717008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_59
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 407
+        width: 397
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d827c80b229afc0800000000000000
+      internalID: -3483214695128461945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_60
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 437
+        width: 395
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17179c2ca981e5bd0800000000000000
+      internalID: -2639645278620520079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_61
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 789
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d97a946548192d0800000000000000
+      internalID: -3273689947983864522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_62
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 777
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cebcb54a37b71b520800000000000000
+      internalID: 2716087786890054636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_63
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 771
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df182631bc9485a0800000000000000
+      internalID: -6519914075593891880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_64
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 766
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2079e40751f222f0800000000000000
+      internalID: -998970811275972565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_65
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 779
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6229063cd5c7d9480800000000000000
+      internalID: -8890813347207802330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_66
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 755
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe09e597fcaa3620800000000000000
+      internalID: 2754704301462458103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_67
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 722
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b1ea14b16da30460800000000000000
+      internalID: 7206794463868019121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_68
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 411
+        width: 407
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56bb6e0453ac79e80800000000000000
+      internalID: -8171840668769535131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_69
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 720
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 258bc4881e1c9e4d0800000000000000
+      internalID: -3104737293696714670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_70
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 633
+        width: 69
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a59d5181e8ebf280800000000000000
+      internalID: -9008350574388865631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_71
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 656
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d55e3efe8f8265dd0800000000000000
+      internalID: -2497763893688670883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_72
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 642
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec7a144dd03f2760800000000000000
+      internalID: 7435215236700470499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_73
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 610
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b93a6b8e9ec5d4a50800000000000000
+      internalID: 6506959196321653659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_74
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 602
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef10dd6a2356b9650800000000000000
+      internalID: 6240692976874226174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_75
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 489
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f48355cd3bb1c8bc0800000000000000
+      internalID: -3779615527961020337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_76
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 473
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee8c066d45c1b6b70800000000000000
+      internalID: 8893233039872674030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_77
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 449
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f04f75ec1044bef70800000000000000
+      internalID: 9217535836891378703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_78
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 398
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a971a0f111d449620800000000000000
+      internalID: 2779931605924976538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_79
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 433
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1206612e49072f50800000000000000
+      internalID: 6856459188867301915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_80
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 430
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 509e3ba4704706960800000000000000
+      internalID: 7593196546413553925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_81
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 433
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af90286cbb26c8390800000000000000
+      internalID: -7814762694765835782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_82
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 439
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb1e3e0b344107a0800000000000000
+      internalID: -6412769373966164998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_83
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 417
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81c9c5572d3100b40800000000000000
+      internalID: 5404341347477658648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_84
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 417
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b5c602e0b717f50800000000000000
+      internalID: 6877413406575188788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_85
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 423
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0635d24e5014d1aa0800000000000000
+      internalID: -6188718819378375840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_86
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 400
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da5871bacd74cb150800000000000000
+      internalID: 5889661425782588845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_87
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 424
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a1c50edb0c8e84b0800000000000000
+      internalID: -5436253717592161879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_88
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 377
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f3e00c39bb659a20800000000000000
+      internalID: 3068477164442674160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_89
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 367
+        width: 53
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 301b492774ea2c190800000000000000
+      internalID: -7943595170839875325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_90
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 0
+        width: 329
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f1ea787ce235e80800000000000000
+      internalID: -8191151862747095235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_91
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 0
+        width: 423
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9253eea7845c1b9e0800000000000000
+      internalID: -1607286676903807703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_92
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 17
+        width: 448
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7936dcc6684dd4b0800000000000000
+      internalID: -5414091570669012613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_93
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 387
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e0840d70b7ab8d20800000000000000
+      internalID: 3281901129923068128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_94
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 391
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0794a160f20184d0800000000000000
+      internalID: -3134220634219571446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_95
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 298
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f84a29709df4fd0800000000000000
+      internalID: -2355425453543223476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_96
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 24
+        width: 70
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a0f9b11f2c5ab20800000000000000
+      internalID: 3145134255594474106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_97
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 75
+        width: 99
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b193e2272f234400800000000000000
+      internalID: 307141044726895033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_98
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 15
+        width: 47
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58408a6c62cf15870800000000000000
+      internalID: 8669988001136772229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_99
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 31
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd9014b491085c50800000000000000
+      internalID: 6654070187627683250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_100
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 49
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd2c8a6c13aad6a0800000000000000
+      internalID: -6423642576048607791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_101
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 45
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a1694a4e7374bc60800000000000000
+      internalID: 7833012638153531816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_102
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 63
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6f551d96e0ada080800000000000000
+      internalID: -9174499953545486485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_103
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 49
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 105d1d7c22ac03e80800000000000000
+      internalID: -8200832670711556863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_104
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 38
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3fb3365a629b4070800000000000000
+      internalID: 8091722140911648575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_105
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 21
+        width: 6
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe77105c43c7d7770800000000000000
+      internalID: 8610174628687607791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_106
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 35
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f160d40b416c6540800000000000000
+      internalID: 5002480260932985333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_107
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 21
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dea4b7183a3b52d0800000000000000
+      internalID: -3288971090273718568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_108
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 31
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b7fed8b5ff8b660800000000000000
+      internalID: 7401946756271799067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_109
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 37
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15f35ae66e9b2acc0800000000000000
+      internalID: -3701191544395186351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_110
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 37
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60bf5f15154ba0760800000000000000
+      internalID: 7424945197034109702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CapyLifeAtlas_111
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 15
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e43c505dbcf76d0800000000000000
+      internalID: -2990447511765561752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CapyLifeAtlas_0: -3897508965324158314
+      CapyLifeAtlas_1: 7260080124335617528
+      CapyLifeAtlas_10: -45699737606101745
+      CapyLifeAtlas_100: -6423642576048607791
+      CapyLifeAtlas_101: 7833012638153531816
+      CapyLifeAtlas_102: -9174499953545486485
+      CapyLifeAtlas_103: -8200832670711556863
+      CapyLifeAtlas_104: 8091722140911648575
+      CapyLifeAtlas_105: 8610174628687607791
+      CapyLifeAtlas_106: 5002480260932985333
+      CapyLifeAtlas_107: -3288971090273718568
+      CapyLifeAtlas_108: 7401946756271799067
+      CapyLifeAtlas_109: -3701191544395186351
+      CapyLifeAtlas_11: -6951716487547896147
+      CapyLifeAtlas_110: 7424945197034109702
+      CapyLifeAtlas_111: -2990447511765561752
+      CapyLifeAtlas_12: -674205361974856991
+      CapyLifeAtlas_13: 8533236345499718046
+      CapyLifeAtlas_14: 8844962070877117632
+      CapyLifeAtlas_15: 5922249255364148350
+      CapyLifeAtlas_16: 61415614636462332
+      CapyLifeAtlas_17: 3319616515416542050
+      CapyLifeAtlas_18: 7749858226463235149
+      CapyLifeAtlas_19: 5252160772351408216
+      CapyLifeAtlas_2: -1936084797873308614
+      CapyLifeAtlas_20: -7424385434097540244
+      CapyLifeAtlas_21: -537961386603118023
+      CapyLifeAtlas_22: 3569475346196685628
+      CapyLifeAtlas_23: 9132298420069736678
+      CapyLifeAtlas_24: 3087463293816588537
+      CapyLifeAtlas_25: 7353192369953585474
+      CapyLifeAtlas_26: -6277403905281719928
+      CapyLifeAtlas_27: 2153392115551851063
+      CapyLifeAtlas_28: 6136926215700614704
+      CapyLifeAtlas_29: -1952789997156199710
+      CapyLifeAtlas_3: -4947135606693778396
+      CapyLifeAtlas_30: -1677217838932830389
+      CapyLifeAtlas_31: 2991506211973522591
+      CapyLifeAtlas_32: 996735354417295647
+      CapyLifeAtlas_33: -7009889476919369639
+      CapyLifeAtlas_34: -2744495171108504286
+      CapyLifeAtlas_35: 3679757470493979804
+      CapyLifeAtlas_36: -1905604835202070261
+      CapyLifeAtlas_37: -3991344303592074307
+      CapyLifeAtlas_38: -7036486327053259914
+      CapyLifeAtlas_39: 4385832424604560670
+      CapyLifeAtlas_4: -5005988503723545356
+      CapyLifeAtlas_40: -1192319959837757438
+      CapyLifeAtlas_41: 562464162152756218
+      CapyLifeAtlas_42: 7077899099939490459
+      CapyLifeAtlas_43: -2940420694153889563
+      CapyLifeAtlas_44: 1461081906052992978
+      CapyLifeAtlas_45: -5407969581766376914
+      CapyLifeAtlas_46: 8608738628337947738
+      CapyLifeAtlas_47: 6109949583056145733
+      CapyLifeAtlas_48: -2151219689661625542
+      CapyLifeAtlas_49: 332064567485114181
+      CapyLifeAtlas_5: 561024123760020071
+      CapyLifeAtlas_50: 5766588594820872968
+      CapyLifeAtlas_51: -2502689118252627048
+      CapyLifeAtlas_52: -503130016703076343
+      CapyLifeAtlas_53: -8811097653364388097
+      CapyLifeAtlas_54: 700930430162753993
+      CapyLifeAtlas_55: 1283698118543542268
+      CapyLifeAtlas_56: -8978366431860671658
+      CapyLifeAtlas_57: 5104982282192968480
+      CapyLifeAtlas_58: 9100266084481717008
+      CapyLifeAtlas_59: -3483214695128461945
+      CapyLifeAtlas_6: -4056289751788012758
+      CapyLifeAtlas_60: -2639645278620520079
+      CapyLifeAtlas_61: -3273689947983864522
+      CapyLifeAtlas_62: 2716087786890054636
+      CapyLifeAtlas_63: -6519914075593891880
+      CapyLifeAtlas_64: -998970811275972565
+      CapyLifeAtlas_65: -8890813347207802330
+      CapyLifeAtlas_66: 2754704301462458103
+      CapyLifeAtlas_67: 7206794463868019121
+      CapyLifeAtlas_68: -8171840668769535131
+      CapyLifeAtlas_69: -3104737293696714670
+      CapyLifeAtlas_7: -442227340177714374
+      CapyLifeAtlas_70: -9008350574388865631
+      CapyLifeAtlas_71: -2497763893688670883
+      CapyLifeAtlas_72: 7435215236700470499
+      CapyLifeAtlas_73: 6506959196321653659
+      CapyLifeAtlas_74: 6240692976874226174
+      CapyLifeAtlas_75: -3779615527961020337
+      CapyLifeAtlas_76: 8893233039872674030
+      CapyLifeAtlas_77: 9217535836891378703
+      CapyLifeAtlas_78: 2779931605924976538
+      CapyLifeAtlas_79: 6856459188867301915
+      CapyLifeAtlas_8: -2255061152403383186
+      CapyLifeAtlas_80: 7593196546413553925
+      CapyLifeAtlas_81: -7814762694765835782
+      CapyLifeAtlas_82: -6412769373966164998
+      CapyLifeAtlas_83: 5404341347477658648
+      CapyLifeAtlas_84: 6877413406575188788
+      CapyLifeAtlas_85: -6188718819378375840
+      CapyLifeAtlas_86: 5889661425782588845
+      CapyLifeAtlas_87: -5436253717592161879
+      CapyLifeAtlas_88: 3068477164442674160
+      CapyLifeAtlas_89: -7943595170839875325
+      CapyLifeAtlas_9: 5664340319493738860
+      CapyLifeAtlas_90: -8191151862747095235
+      CapyLifeAtlas_91: -1607286676903807703
+      CapyLifeAtlas_92: -5414091570669012613
+      CapyLifeAtlas_93: 3281901129923068128
+      CapyLifeAtlas_94: -3134220634219571446
+      CapyLifeAtlas_95: -2355425453543223476
+      CapyLifeAtlas_96: 3145134255594474106
+      CapyLifeAtlas_97: 307141044726895033
+      CapyLifeAtlas_98: 8669988001136772229
+      CapyLifeAtlas_99: 6654070187627683250
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

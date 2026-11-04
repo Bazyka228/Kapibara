@@ -1,0 +1,661 @@
+[
+  {
+    "name": "cap-none",
+    "bounds": [
+      [
+        60,
+        230,
+        460,
+        263,
+        76427
+      ],
+      [
+        593,
+        89,
+        346,
+        396,
+        93782
+      ],
+      [
+        1100,
+        48,
+        389,
+        439,
+        109538
+      ],
+      [
+        347,
+        561,
+        391,
+        397,
+        104113
+      ],
+      [
+        855,
+        519,
+        402,
+        442,
+        116844
+      ]
+    ],
+    "eyes": [
+      [
+        [
+          345,
+          381
+        ]
+      ],
+      [
+        [
+          786,
+          223
+        ],
+        [
+          903,
+          203
+        ]
+      ],
+      [
+        [
+          1333,
+          172
+        ]
+      ],
+      [
+        [
+          578,
+          683
+        ]
+      ],
+      [
+        [
+          1101,
+          641
+        ]
+      ]
+    ],
+    "sourceWidth": 1536,
+    "sourceHeight": 1024,
+    "imagegenOutput": "C:\\Users\\ASUS\\.codex\\generated_images\\01a14092-3319-76a1-894e-c26c1f917dc1\\exec-c154590d-d1c8-4d8e-add5-f6e6c776965a.png",
+    "editInputs": [
+      "C:/Мои игры/Second Project/Assets/Capybara67/Resources/Outfits/duck-none.png",
+      "C:/Мои игры/Second Project/Assets/Capybara67/Resources/Outfits/cap-scarf.png"
+    ]
+  },
+  {
+    "name": "crown-none",
+    "bounds": [
+      [
+        44,
+        191,
+        463,
+        309,
+        86190
+      ],
+      [
+        583,
+        51,
+        356,
+        445,
+        103213
+      ],
+      [
+        1077,
+        24,
+        429,
+        482,
+        123291
+      ],
+      [
+        305,
+        520,
+        406,
+        446,
+        113150
+      ],
+      [
+        836,
+        518,
+        400,
+        454,
+        115801
+      ]
+    ],
+    "eyes": [
+      [
+        [
+          346,
+          378
+        ]
+      ],
+      [
+        [
+          774,
+          220
+        ],
+        [
+          899,
+          197
+        ]
+      ],
+      [
+        [
+          1346,
+          173
+        ]
+      ],
+      [
+        [
+          543,
+          671
+        ]
+      ],
+      [
+        [
+          1072,
+          651
+        ]
+      ]
+    ],
+    "sourceWidth": 1536,
+    "sourceHeight": 1024,
+    "imagegenOutput": "C:\\Users\\ASUS\\.codex\\generated_images\\01a14092-3319-76a1-894e-c26c1f917dc1\\exec-ca2177cd-a51b-45f1-9aa7-00e7e6d878c7.png",
+    "editInputs": [
+      "C:/Мои игры/Second Project/Assets/Capybara67/Resources/Outfits/duck-none.png",
+      "C:/Мои игры/Second Project/Assets/Capybara67/Resources/Outfits/crown-scarf.png"
+    ]
+  },
+  {
+    "name": "panama-none",
+    "bounds": [
+      [
+        55,
+        211,
+        447,
+        270,
+        79516
+      ],
+      [
+        584,
+        84,
+        345,
+        391,
+        94594
+      ],
+      [
+        1095,
+        35,
+        408,
+        446,
+        114506
+      ],
+      [
+        336,
+        547,
+        394,
+        415,
+        109326
+      ],
+      [
+        855,
+        516,
+        409,
+        449,
+        120849
+      ]
+    ],
+    "eyes": [
+      [
+        [
+          343,
+          369
+        ]
+      ],
+      [
+        [
+          778,
+          213
+        ],
+        [
+          892,
+          192
+        ]
+      ],
+      [
+        [
+          1343,
+          166
+        ]
+      ],
+      [
+        [
+          572,
+          669
+        ]
+      ],
+      [
+        [
+          1109,
+          640
+        ]
+      ]
+    ],
+    "sourceWidth": 1536,
+    "sourceHeight": 1024,
+    "imagegenOutput": "C:\\Users\\ASUS\\.codex\\generated_images\\01a14092-3319-76a1-894e-c26c1f917dc1\\exec-309d451e-62b6-4544-99b4-698100151eb6.png",
+    "editInputs": [
+      "C:/Мои игры/Second Project/Assets/Capybara67/Resources/Outfits/duck-none.png",
+      "C:/Мои игры/Second Project/Assets/Capybara67/Resources/Outfits/panama-scarf.png"
+    ]
+  },
+  {
+    "name": "none-tie",
+    "bounds": [
+      [
+        65,
+        272,
+        439,
+        226,
+        70617
+      ],
+      [
+        587,
+        149,
+        351,
+        348,
+        84878
+      ],
+      [
+        1091,
+        105,
+        406,
+        398,
+        99583
+      ],
+      [
+        325,
+        601,
+        397,
+        361,
+        95409
+      ],
+      [
+        825,
+        582,
+        414,
+        386,
+        105376
+      ]
+    ],
+    "eyes": [
+      [
+        [
+          355,
+          381
+        ]
+      ],
+      [
+        [
+          776,
+          238
+        ],
+        [
+          902,
+          218
+        ]
+      ],
+      [
+        [
+          1330,
+          191
+        ]
+      ],
+      [
+        [
+          566,
+          672
+        ]
+      ],
+      [
+        [
+          1080,
+          655
+        ]
+      ]
+    ],
+    "sourceWidth": 1536,
+    "sourceHeight": 1024,
+    "imagegenOutput": "C:\\Users\\ASUS\\.codex\\generated_images\\01a14092-3319-76a1-894e-c26c1f917dc1\\exec-a11b6318-a48b-42f2-99ea-d0e71fc797c0.png",
+    "editInputs": [
+      "C:/Мои игры/Second Project/Assets/Capybara67/Resources/Outfits/duck-none.png"
+    ]
+  },
+  {
+    "name": "duck-tie",
+    "bounds": [
+      [
+        63,
+        223,
+        416,
+        277,
+        70290
+      ],
+      [
+        576,
+        77,
+        334,
+        418,
+        88320
+      ],
+      [
+        1093,
+        48,
+        386,
+        453,
+        101021
+      ],
+      [
+        328,
+        548,
+        372,
+        424,
+        97642
+      ],
+      [
+        850,
+        535,
+        378,
+        442,
+        103547
+      ]
+    ],
+    "eyes": [
+      [
+        [
+          337,
+          390
+        ]
+      ],
+      [
+        [
+          754,
+          240
+        ],
+        [
+          872,
+          219
+        ]
+      ],
+      [
+        [
+          1327,
+          193
+        ]
+      ],
+      [
+        [
+          544,
+          691
+        ]
+      ],
+      [
+        [
+          1078,
+          663
+        ]
+      ]
+    ],
+    "sourceWidth": 1536,
+    "sourceHeight": 1024,
+    "imagegenOutput": "C:\\Users\\ASUS\\.codex\\generated_images\\01a14092-3319-76a1-894e-c26c1f917dc1\\exec-a3833299-92a9-45b7-93ed-bf2020d2c027.png",
+    "editInputs": [
+      "C:/Мои игры/Second Project/Assets/Capybara67/Resources/Outfits/duck-none.png"
+    ]
+  },
+  {
+    "name": "cap-tie",
+    "bounds": [
+      [
+        58,
+        229,
+        464,
+        265,
+        77096
+      ],
+      [
+        591,
+        88,
+        349,
+        398,
+        94698
+      ],
+      [
+        1099,
+        48,
+        391,
+        439,
+        110758
+      ],
+      [
+        342,
+        560,
+        397,
+        400,
+        106520
+      ],
+      [
+        854,
+        518,
+        404,
+        444,
+        118986
+      ]
+    ],
+    "eyes": [
+      [
+        [
+          346,
+          382
+        ]
+      ],
+      [
+        [
+          787,
+          223
+        ],
+        [
+          904,
+          203
+        ]
+      ],
+      [
+        [
+          1333,
+          172
+        ]
+      ],
+      [
+        [
+          579,
+          683
+        ]
+      ],
+      [
+        [
+          1101,
+          642
+        ]
+      ]
+    ],
+    "sourceWidth": 1536,
+    "sourceHeight": 1024,
+    "imagegenOutput": "C:\\Users\\ASUS\\.codex\\generated_images\\01a14092-3319-76a1-894e-c26c1f917dc1\\exec-7206f4a5-35b1-449f-a7d8-ddf5f8a35829.png",
+    "editInputs": [
+      "C:\\Users\\ASUS\\.codex\\generated_images\\01a14092-3319-76a1-894e-c26c1f917dc1\\exec-c154590d-d1c8-4d8e-add5-f6e6c776965a.png"
+    ]
+  },
+  {
+    "name": "crown-tie",
+    "bounds": [
+      [
+        45,
+        191,
+        462,
+        310,
+        86368
+      ],
+      [
+        583,
+        51,
+        357,
+        445,
+        103285
+      ],
+      [
+        1077,
+        24,
+        429,
+        483,
+        123020
+      ],
+      [
+        304,
+        520,
+        408,
+        447,
+        113893
+      ],
+      [
+        836,
+        519,
+        401,
+        455,
+        116417
+      ]
+    ],
+    "eyes": [
+      [
+        [
+          346,
+          378
+        ]
+      ],
+      [
+        [
+          774,
+          220
+        ],
+        [
+          899,
+          197
+        ]
+      ],
+      [
+        [
+          1346,
+          173
+        ]
+      ],
+      [
+        [
+          543,
+          671
+        ]
+      ],
+      [
+        [
+          1073,
+          651
+        ]
+      ]
+    ],
+    "sourceWidth": 1536,
+    "sourceHeight": 1024,
+    "imagegenOutput": "C:\\Users\\ASUS\\.codex\\generated_images\\01a14092-3319-76a1-894e-c26c1f917dc1\\exec-7e7a6103-d3d2-4109-85cf-665f0b645870.png",
+    "editInputs": [
+      "C:\\Users\\ASUS\\.codex\\generated_images\\01a14092-3319-76a1-894e-c26c1f917dc1\\exec-ca2177cd-a51b-45f1-9aa7-00e7e6d878c7.png"
+    ]
+  },
+  {
+    "name": "panama-tie",
+    "bounds": [
+      [
+        54,
+        208,
+        451,
+        277,
+        81722
+      ],
+      [
+        581,
+        81,
+        351,
+        396,
+        97441
+      ],
+      [
+        1091,
+        33,
+        413,
+        449,
+        118488
+      ],
+      [
+        331,
+        544,
+        402,
+        420,
+        112153
+      ],
+      [
+        853,
+        513,
+        413,
+        454,
+        123993
+      ]
+    ],
+    "eyes": [
+      [
+        [
+          344,
+          369
+        ]
+      ],
+      [
+        [
+          778,
+          213
+        ],
+        [
+          894,
+          192
+        ]
+      ],
+      [
+        [
+          1343,
+          166
+        ]
+      ],
+      [
+        [
+          573,
+          669
+        ]
+      ],
+      [
+        [
+          1110,
+          640
+        ]
+      ]
+    ],
+    "sourceWidth": 1536,
+    "sourceHeight": 1024,
+    "imagegenOutput": "C:\\Users\\ASUS\\.codex\\generated_images\\01a14092-3319-76a1-894e-c26c1f917dc1\\exec-5ccb459e-82ca-4600-a348-3269ba32ac79.png",
+    "editInputs": [
+      "C:\\Users\\ASUS\\.codex\\generated_images\\01a14092-3319-76a1-894e-c26c1f917dc1\\exec-309d451e-62b6-4544-99b4-698100151eb6.png"
+    ]
+  }
+]

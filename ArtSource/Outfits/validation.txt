@@ -1,0 +1,1 @@
+PASS: 2718 Unity idle integration assertions; all pages, raycasts, touch sizes, growth, feeding, evolution, 77 purchases, daily, save and platform pause. Profile restored.

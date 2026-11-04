@@ -1,0 +1,412 @@
+[
+  {
+    "name": "none-apron",
+    "bounds": [
+      [
+        74,
+        240,
+        471,
+        229,
+        77225
+      ],
+      [
+        601,
+        107,
+        342,
+        362,
+        91471
+      ],
+      [
+        1102,
+        48,
+        400,
+        423,
+        112421
+      ],
+      [
+        306,
+        567,
+        408,
+        392,
+        111579
+      ],
+      [
+        858,
+        538,
+        406,
+        414,
+        114643
+      ]
+    ],
+    "eyes": [
+      [
+        [
+          392,
+          354
+        ]
+      ],
+      [
+        [
+          781,
+          198
+        ],
+        [
+          901,
+          175
+        ]
+      ],
+      [
+        [
+          1335,
+          142
+        ]
+      ],
+      [
+        [
+          550,
+          644
+        ]
+      ],
+      [
+        [
+          1106,
+          612
+        ]
+      ]
+    ],
+    "sourceWidth": 1536,
+    "sourceHeight": 1024,
+    "imagegenOutput": "C:\\Users\\ASUS\\.codex\\generated_images\\01a14092-3319-76a1-894e-c26c1f917dc1\\exec-0970cc1b-f6bf-4343-a134-c2d3c81442af.png",
+    "editInputs": [
+      "C:/Мои игры/Second Project/Assets/Capybara67/Resources/Outfits/duck-none.png"
+    ]
+  },
+  {
+    "name": "cap-apron",
+    "bounds": [
+      [
+        57,
+        228,
+        465,
+        265,
+        79620
+      ],
+      [
+        590,
+        79,
+        351,
+        408,
+        100168
+      ],
+      [
+        1103,
+        37,
+        389,
+        452,
+        116375
+      ],
+      [
+        339,
+        551,
+        406,
+        412,
+        111525
+      ],
+      [
+        828,
+        508,
+        432,
+        455,
+        130390
+      ]
+    ],
+    "eyes": [
+      [
+        [
+          349,
+          377
+        ]
+      ],
+      [
+        [
+          787,
+          213
+        ],
+        [
+          904,
+          193
+        ]
+      ],
+      [
+        [
+          1334,
+          161
+        ]
+      ],
+      [
+        [
+          584,
+          674
+        ]
+      ],
+      [
+        [
+          1100,
+          635
+        ]
+      ]
+    ],
+    "sourceWidth": 1536,
+    "sourceHeight": 1024,
+    "imagegenOutput": "C:\\Users\\ASUS\\.codex\\generated_images\\01a14092-3319-76a1-894e-c26c1f917dc1\\exec-5a2312c5-7c2f-43a8-8463-9226f33a170e.png",
+    "editInputs": [
+      "C:/Мои игры/Second Project/Assets/Capybara67/Resources/Outfits/cap-none.png"
+    ]
+  },
+  {
+    "name": "crown-apron",
+    "bounds": [
+      [
+        43,
+        190,
+        465,
+        308,
+        86123
+      ],
+      [
+        580,
+        49,
+        360,
+        446,
+        104692
+      ],
+      [
+        1080,
+        23,
+        428,
+        482,
+        122493
+      ],
+      [
+        305,
+        515,
+        407,
+        451,
+        115147
+      ],
+      [
+        841,
+        518,
+        400,
+        453,
+        116817
+      ]
+    ],
+    "eyes": [
+      [
+        [
+          348,
+          377
+        ]
+      ],
+      [
+        [
+          776,
+          219
+        ],
+        [
+          900,
+          196
+        ]
+      ],
+      [
+        [
+          1347,
+          172
+        ]
+      ],
+      [
+        [
+          545,
+          668
+        ]
+      ],
+      [
+        [
+          1077,
+          653
+        ]
+      ]
+    ],
+    "sourceWidth": 1536,
+    "sourceHeight": 1024,
+    "imagegenOutput": "C:\\Users\\ASUS\\.codex\\generated_images\\01a14092-3319-76a1-894e-c26c1f917dc1\\exec-98fe3dcb-e6ab-43e0-aaa2-550a7047868c.png",
+    "editInputs": [
+      "C:/Мои игры/Second Project/Assets/Capybara67/Resources/Outfits/crown-none.png"
+    ]
+  },
+  {
+    "name": "panama-apron",
+    "bounds": [
+      [
+        26,
+        178,
+        493,
+        293,
+        97476
+      ],
+      [
+        583,
+        49,
+        367,
+        432,
+        114271
+      ],
+      [
+        1080,
+        13,
+        435,
+        466,
+        132285
+      ],
+      [
+        319,
+        525,
+        425,
+        444,
+        129436
+      ],
+      [
+        843,
+        492,
+        437,
+        476,
+        141384
+      ]
+    ],
+    "eyes": [
+      [
+        [
+          345,
+          351
+        ]
+      ],
+      [
+        [
+          785,
+          190
+        ],
+        [
+          910,
+          167
+        ]
+      ],
+      [
+        [
+          1346,
+          150
+        ]
+      ],
+      [
+        [
+          577,
+          655
+        ]
+      ],
+      [
+        [
+          1116,
+          623
+        ]
+      ]
+    ],
+    "sourceWidth": 1536,
+    "sourceHeight": 1024,
+    "imagegenOutput": "C:\\Users\\ASUS\\.codex\\generated_images\\01a14092-3319-76a1-894e-c26c1f917dc1\\exec-3bc75b9a-7b82-4bbd-992c-ebed880a05fc.png",
+    "editInputs": [
+      "C:/Мои игры/Second Project/Assets/Capybara67/Resources/Outfits/panama-none.png"
+    ]
+  },
+  {
+    "name": "duck-apron",
+    "bounds": [
+      [
+        63,
+        218,
+        417,
+        281,
+        71736
+      ],
+      [
+        580,
+        73,
+        331,
+        423,
+        90370
+      ],
+      [
+        1093,
+        48,
+        386,
+        452,
+        100683
+      ],
+      [
+        314,
+        545,
+        388,
+        426,
+        101373
+      ],
+      [
+        834,
+        533,
+        395,
+        437,
+        102441
+      ]
+    ],
+    "eyes": [
+      [
+        [
+          338,
+          388
+        ]
+      ],
+      [
+        [
+          754,
+          237
+        ],
+        [
+          873,
+          216
+        ]
+      ],
+      [
+        [
+          1327,
+          193
+        ]
+      ],
+      [
+        [
+          544,
+          690
+        ]
+      ],
+      [
+        [
+          1078,
+          662
+        ]
+      ]
+    ],
+    "sourceWidth": 1536,
+    "sourceHeight": 1024,
+    "imagegenOutput": "C:\\Users\\ASUS\\.codex\\generated_images\\01a14092-3319-76a1-894e-c26c1f917dc1\\exec-c3ebc7ed-8433-4cd6-9d84-076e8dc478c5.png",
+    "editInputs": [
+      "C:/Мои игры/Second Project/Assets/Capybara67/Resources/Outfits/duck-none.png"
+    ]
+  }
+]

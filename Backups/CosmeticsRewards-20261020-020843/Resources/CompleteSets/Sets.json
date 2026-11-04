@@ -1,0 +1,434 @@
+{
+  "sets": [
+    {
+      "id": "set_gardener",
+      "slug": "gardener",
+      "name": "Мандариновый садовник",
+      "description": "",
+      "legacy": [
+        "panama",
+        "apron",
+        "orangehat",
+        "overalls"
+      ],
+      "stage": 1,
+      "price": 0,
+      "color": "8EAF82"
+    },
+    {
+      "id": "set_baker",
+      "slug": "baker",
+      "name": "Булочник",
+      "description": "Honey cream baker toque, coral gingham neckerchief, buttery yellow bakery tunic and cinnamon apron with croissant embroidery, golden buttons.",
+      "legacy": [
+        "chef"
+      ],
+      "stage": 1,
+      "price": 84,
+      "color": "E8B979"
+    },
+    {
+      "id": "set_sailor",
+      "slug": "sailor",
+      "name": "Морской капитан",
+      "description": "White sailor cap with navy anchor badge, navy blue sailor jacket with white collar stripes and teal necktie, brass buttons.",
+      "legacy": [
+        "sailor",
+        "boat"
+      ],
+      "stage": 1,
+      "price": 111,
+      "color": "8EBECD"
+    },
+    {
+      "id": "set_astronomer",
+      "slug": "astronomer",
+      "name": "Звездочёт",
+      "description": "Midnight blue soft pointed cap with golden crescent, matching indigo robe with stitched golden stars, lavender lining and round moon clasp.",
+      "legacy": [
+        "wizardhat",
+        "starcape"
+      ],
+      "stage": 1,
+      "price": 156,
+      "color": "AAA0CF"
+    },
+    {
+      "id": "set_artist",
+      "slug": "artist",
+      "name": "Художник",
+      "description": "Terracotta soft beret with tiny brush pin, cream striped shirt and deep turquoise artist smock with stitched paint-swatch pocket.",
+      "legacy": [
+        "beret"
+      ],
+      "stage": 1,
+      "price": 219,
+      "color": "D69E91"
+    },
+    {
+      "id": "set_rain",
+      "slug": "rain",
+      "name": "После дождя",
+      "description": "Butter yellow rain hat with seafoam band, matching yellow raincoat with large seafoam toggles and little stitched cloud pocket.",
+      "legacy": [
+        "raincoat"
+      ],
+      "stage": 1,
+      "price": 300,
+      "color": "8EAF82"
+    },
+    {
+      "id": "set_explorer",
+      "slug": "explorer",
+      "name": "Следопыт",
+      "description": "Warm khaki explorer hat, olive vest over ivory shirt, terracotta scarf and small attached canvas map pouch.",
+      "legacy": [
+        "detective",
+        "satchel"
+      ],
+      "stage": 1,
+      "price": 399,
+      "color": "E8B979"
+    },
+    {
+      "id": "set_beekeeper",
+      "slug": "beekeeper",
+      "name": "Медовый мастер",
+      "description": "Honey gold round brim hat with tiny bee pin (no face veil), ivory quilted jacket and amber utility apron with honeycomb embroidery.",
+      "legacy": [
+        "daisyhat"
+      ],
+      "stage": 2,
+      "price": 516,
+      "color": "8EBECD"
+    },
+    {
+      "id": "set_berry",
+      "slug": "berry",
+      "name": "Ягодный повар",
+      "description": "Soft raspberry chef cap shaped like a berry with green leaf, rose pink tunic and cream apron with strawberry pocket.",
+      "legacy": [
+        "flowerlei"
+      ],
+      "stage": 2,
+      "price": 651,
+      "color": "AAA0CF"
+    },
+    {
+      "id": "set_frog",
+      "slug": "frog",
+      "name": "Хозяин пруда",
+      "description": "Moss green frog bucket hat with stitched frog eye buttons, sage coat with cream belly panel and water-lily pocket.",
+      "legacy": [
+        "froghat"
+      ],
+      "stage": 2,
+      "price": 804,
+      "color": "D69E91"
+    },
+    {
+      "id": "set_rabbit",
+      "slug": "rabbit",
+      "name": "Облачный зайка",
+      "description": "Lavender floppy bunny ear cap, lilac fleece romper with ivory fluffy collar and stitched cloud pocket.",
+      "legacy": [
+        "bunnyears"
+      ],
+      "stage": 2,
+      "price": 975,
+      "color": "8EAF82"
+    },
+    {
+      "id": "set_pirate",
+      "slug": "pirate",
+      "name": "Капитан лагуны",
+      "description": "Chocolate pirate tricorn with teal ribbon and gold seashell badge NO skull, matching burgundy captain coat with cream shirt and teal sash.",
+      "legacy": [
+        "pirate"
+      ],
+      "stage": 2,
+      "price": 1164,
+      "color": "E8B979"
+    },
+    {
+      "id": "set_aviator",
+      "slug": "aviator",
+      "name": "Небесный пилот",
+      "description": "Caramel leather aviator cap with goggles resting above forehead, chestnut flight jacket with cream shearling collar and sky blue scarf.",
+      "legacy": [
+        "aviator"
+      ],
+      "stage": 2,
+      "price": 1371,
+      "color": "8EBECD"
+    },
+    {
+      "id": "set_winter",
+      "slug": "winter",
+      "name": "Снежный друг",
+      "description": "Powder blue earflap hat with ivory trim, thick blue knitted cardigan with snowflake stitches and coral scarf.",
+      "legacy": [
+        "ushanka",
+        "sweater"
+      ],
+      "stage": 2,
+      "price": 1596,
+      "color": "AAA0CF"
+    },
+    {
+      "id": "set_knight",
+      "slug": "knight",
+      "name": "Рыцарь листьев",
+      "description": "Rounded sage green leaf-shaped helmet OPEN FACE above brow, matching teal padded tunic with gold leaf chest emblem and short ivory shoulder cape.",
+      "legacy": [
+        "helmet",
+        "armor"
+      ],
+      "stage": 2,
+      "price": 1839,
+      "color": "D69E91"
+    },
+    {
+      "id": "set_royal",
+      "slug": "royal",
+      "name": "Мандариновый принц",
+      "description": "Small rounded golden crown with orange gem, warm plum velvet royal coat with cream collar and subtle orange sash, gold stitched trim.",
+      "legacy": [
+        "crown",
+        "cape"
+      ],
+      "stage": 2,
+      "price": 2100,
+      "color": "8EAF82"
+    },
+    {
+      "id": "set_musician",
+      "slug": "musician",
+      "name": "Лесной музыкант",
+      "description": "Teal knit beanie with golden music-note patch, coral jacket over cream shirt with rounded music pocket and dark teal bow tie.",
+      "legacy": [
+        "phones",
+        "beanie"
+      ],
+      "stage": 2,
+      "price": 2379,
+      "color": "E8B979"
+    },
+    {
+      "id": "set_picnic",
+      "slug": "picnic",
+      "name": "Пикник у реки",
+      "description": "Cream sunhat with gingham ribbon, peach gingham vest and sage shorts with tiny picnic-basket pocket.",
+      "legacy": [
+        "picnicpack"
+      ],
+      "stage": 2,
+      "price": 2676,
+      "color": "8EBECD"
+    },
+    {
+      "id": "set_postman",
+      "slug": "postman",
+      "name": "Почтальон",
+      "description": "Sky blue post cap with cream envelope badge, matching blue jacket with coral collar and attached tan letter pouch.",
+      "legacy": [
+        "cap"
+      ],
+      "stage": 2,
+      "price": 2991,
+      "color": "AAA0CF"
+    },
+    {
+      "id": "set_detective",
+      "slug": "detective",
+      "name": "Тайна сада",
+      "description": "Brown tweed detective deerstalker hat, matching warm beige capelet coat with cocoa buttons and cream checked scarf.",
+      "legacy": [
+        "waistcoat"
+      ],
+      "stage": 2,
+      "price": 3324,
+      "color": "D69E91"
+    },
+    {
+      "id": "set_florist",
+      "slug": "florist",
+      "name": "Цветочный мастер",
+      "description": "Lilac sunhat with small attached flowers, pale violet pinafore over cream shirt with daisy embroidered pocket.",
+      "legacy": [
+        "wreath",
+        "hibiscus"
+      ],
+      "stage": 3,
+      "price": 3675,
+      "color": "8EAF82"
+    },
+    {
+      "id": "set_tea",
+      "slug": "tea",
+      "name": "Чайный хранитель",
+      "description": "Mint rounded tea-service cap with tiny leaf emblem, dark jade wrap-style jacket with cream edges and gold teapot embroidery.",
+      "legacy": [
+        "leaftiara",
+        "leafcape"
+      ],
+      "stage": 3,
+      "price": 4044,
+      "color": "E8B979"
+    },
+    {
+      "id": "set_pajama",
+      "slug": "pajama",
+      "name": "Сонный месяц",
+      "description": "Soft lavender floppy nightcap with attached ivory pompom, matching striped lavender pajamas with golden crescent chest patch.",
+      "legacy": [
+        "hoodie"
+      ],
+      "stage": 3,
+      "price": 4431,
+      "color": "8EBECD"
+    },
+    {
+      "id": "set_sports",
+      "slug": "sports",
+      "name": "Бодрый чемпион",
+      "description": "Coral sports visor with cream stripe, teal zip tracksuit jacket and coral shorts with golden leaf badge.",
+      "legacy": [
+        "shirt67",
+        "medal"
+      ],
+      "stage": 3,
+      "price": 4836,
+      "color": "AAA0CF"
+    },
+    {
+      "id": "set_duck",
+      "slug": "duck",
+      "name": "Утиный смотритель",
+      "description": "Sunny yellow bucket hat with duck beak badge, seafoam dungarees over cream shirt with small duck embroidered pocket.",
+      "legacy": [
+        "duck",
+        "lifevest"
+      ],
+      "stage": 3,
+      "price": 5259,
+      "color": "D69E91"
+    },
+    {
+      "id": "set_forest",
+      "slug": "forest",
+      "name": "Лесной грибник",
+      "description": "Soft russet mushroom-shaped cap with cream spots, warm moss green coat with ivory collar and little mushroom pocket.",
+      "legacy": [
+        "poncho"
+      ],
+      "stage": 3,
+      "price": 5700,
+      "color": "8EAF82"
+    },
+    {
+      "id": "set_coffee",
+      "slug": "coffee",
+      "name": "Какао-мастер",
+      "description": "Chocolate brown baker cap with cinnamon band, cream shirt and cocoa apron with tiny steaming-cup embroidery.",
+      "legacy": [
+        "tie"
+      ],
+      "stage": 3,
+      "price": 6159,
+      "color": "E8B979"
+    },
+    {
+      "id": "set_marine",
+      "slug": "marine",
+      "name": "Коралловый исследователь",
+      "description": "Turquoise rounded diving-style fabric hood OPEN FACE no mask, matching aqua utility vest with coral piping and seashell pocket.",
+      "legacy": [
+        "bandana"
+      ],
+      "stage": 3,
+      "price": 6636,
+      "color": "8EBECD"
+    },
+    {
+      "id": "set_festival",
+      "slug": "festival",
+      "name": "Праздник фонариков",
+      "description": "Coral and amber festive soft hat with tiny attached gold tassel, matching warm red jacket with gold frog closures and lantern embroidery.",
+      "legacy": [
+        "partyhat"
+      ],
+      "stage": 3,
+      "price": 7131,
+      "color": "AAA0CF"
+    },
+    {
+      "id": "set_moon",
+      "slug": "moon",
+      "name": "Лунный путешественник",
+      "description": "Silver blue padded explorer cap open face with small crescent badge, navy quilted vest over pale blue suit, copper circular clasps.",
+      "legacy": [
+        "glasses"
+      ],
+      "stage": 4,
+      "price": 7644,
+      "color": "D69E91"
+    },
+    {
+      "id": "set_orchard",
+      "slug": "orchard",
+      "name": "Персиковый фермер",
+      "description": "Peach straw hat with coral ribbon, peach denim overalls over pale cream shirt with stitched peach fruit pocket.",
+      "legacy": [
+        "orangeShirt"
+      ],
+      "stage": 4,
+      "price": 8175,
+      "color": "8EAF82"
+    },
+    {
+      "id": "set_librarian",
+      "slug": "librarian",
+      "name": "Хранитель сказок",
+      "description": "Burgundy soft academic cap with short gold tassel, moss green cardigan over cream collar and burgundy bow, little book embroidery.",
+      "legacy": [
+        "camera"
+      ],
+      "stage": 4,
+      "price": 8724,
+      "color": "E8B979"
+    },
+    {
+      "id": "set_snowberry",
+      "slug": "snowberry",
+      "name": "Рябиновый уют",
+      "description": "Burgundy knit pompom hat, cream cable knit sweater with burgundy cuffs and a stitched rowan berry pocket.",
+      "legacy": [
+        "scarf"
+      ],
+      "stage": 4,
+      "price": 9291,
+      "color": "8EBECD"
+    },
+    {
+      "id": "set_dragon",
+      "slug": "dragon",
+      "name": "Добрый дракончик",
+      "description": "Seafoam soft dragon hood with small rounded amber horns, teal onesie with cream belly and small attached rounded wings on back.",
+      "legacy": [],
+      "stage": 5,
+      "price": 9876,
+      "color": "AAA0CF"
+    },
+    {
+      "id": "set_sun",
+      "slug": "sun",
+      "name": "Солнечный хранитель",
+      "description": "Golden leaf circlet resting above forehead, cream and warm gold ceremonial tunic with amber sun clasp and short attached honey cape.",
+      "legacy": [],
+      "stage": 5,
+      "price": 10479,
+      "color": "D69E91"
+    }
+  ]
+}
